@@ -1,0 +1,23 @@
+{
+  "name": "imgUpload-MINE",
+  "version": "1.0.0",
+  "description": "app.js 为后台代码 + index.html 代码",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yolo-612/imgUpload-MINE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yolo-612/imgUpload-MINE/issues"
+  },
+  "homepage": "https://github.com/yolo-612/imgUpload-MINE#readme",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
